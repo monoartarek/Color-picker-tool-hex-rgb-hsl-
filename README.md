@@ -1,4 +1,5 @@
 # Color Picker Tool
+<img width="367" height="427" alt="image" src="https://github.com/user-attachments/assets/227992bc-46cf-4aeb-9436-8ba9f98d2fb2" />
 
 A **dynamic and stylish color picker** built with **HTML, CSS, and JavaScript**.
 
